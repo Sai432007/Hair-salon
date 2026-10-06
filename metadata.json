@@ -1,0 +1,6 @@
+{
+  "name": "Crown & Blade Barber Co.",
+  "description": "Local handcrafted barbershop specializing in precision fades, hot towel straight-razor shaves, beard sculpting, and master grooming craft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
